@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acmatias
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning C++ game development
+- 🌱 I’m a ThreeJs web developer.
 - 💞️ I’m looking to collaborate with anyone on Industry level development
 - 📫 How to reach me - email: adriancomatias@gmail.com mobile: +61 452 433 767
 
